@@ -24,10 +24,19 @@
 .card {
   margin-top: 10px;
   margin-bottom: 10px;
+  margin-right: 10px;
+  display: inline-block;
 }
 
 .paragraph {
+  display: inline-block;
+  margin:10px;
+}
 
+.item {
+  margin: 20px;
+  display: inline-flex;
+  font-weight: 500;
 }
 
 .message-input {
