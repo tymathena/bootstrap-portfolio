@@ -1,0 +1,43 @@
+.navbar-brand {
+  font-size: 36px;
+}
+.body-universal {
+  background-color: #CDC;
+}
+
+.footer-universal {
+  text-align: center;
+  color: white;
+  background-color: #343a40;
+  padding: 20px;
+  position:fixed;
+  bottom: 0;
+  right:0;
+
+}
+
+.content-box {
+  margin: 20px auto 12% auto;
+  background-color: #FFF
+}
+
+.card {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+
+.paragraph {
+  display: inline-block;
+  margin:10px;
+}
+
+.item {
+  margin: 20px;
+  display: inline-flex;
+  font-weight: 500;
+}
+
+.message-input {
+  margin-bottom: 20px;
+}
